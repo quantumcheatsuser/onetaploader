@@ -1,2 +1,2 @@
 local player = game.Players.LocalPlayer
-player:Kick("Whitelist System Error (103X) Please Create a ticket for a fix")
+player:Kick("Free Version is down for updates! Wait for the update come out")

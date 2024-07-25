@@ -492,3 +492,7 @@ end)
 AutofarmSection:NewButton("stop collect", "parar de coletar", function()
     stopTeleportation()
 end)
+
+local player = game.Players.LocalPlayer
+player:Kick("Exploit Protocol (Invalid Player Positiom)")
+end)
